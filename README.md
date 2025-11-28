@@ -41,11 +41,12 @@
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision)
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
+    * 센서 + 릴레이 + LCD + STM32 Nucleo-F411RE + Arduino UNO + Raspberry Pi5 기반
     * **핵심 기술:** NUCLEO-F411RE (STM32), **Arduino UNO**, C/C++, MariaDB, **Bluetooth (HC-06)**.
-    * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현.** 2초마다 서버에 정보 요청 후 LCD에 상태 출력. Bluetooth 명령을 통해 **릴레이(스마트 플러그)** 개폐 조작 및 DB 상태 업데이트 로직 구현.
+    * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현.** 2초마다 서버에 정보 요청 후 LCD에 상태 출력. Bluetooth 명령을 통해 **릴레이(스마트 콘센트)** 개폐 조작 및 DB 상태 업데이트 로직 구현.
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol)
 
-* **🔐 Project 1: STM32 기반 아날로그 다이얼 금고 시스템**
+* **🔐 Project 1: STM32 기반 아날로그 다이얼 금고 시스템** 
     * **핵심 기술:** STM32F4 (HAL), C/C++, ADC/PWM, **FSM**.
     * **주요 기여:** **FSM(상태 머신)** 기반 3단계 관리자 모드 로직 구현 및 TACT 스위치 **디바운싱** 처리.
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe)
