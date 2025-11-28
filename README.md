@@ -18,7 +18,7 @@
 
 ---
 
-🎓 **Intel Edge AI Academy 8기 수강 중**
+🎓 **Intel 엣지 AI SW Academy 8기 수강 중**
 <br>
 ✈️ **문부과학성 국비 장학생** (2015.09~2016.09, 나고야대학 일본어 일본문화 연수 수료)
 <br>
@@ -35,7 +35,7 @@
 ## 💻 주요 프로젝트
 
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
-    * **성과:** **Intel Edge AI Academy 프로젝트 경진대회 최우수상 수상**
+    * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
     * **핵심 기술:** Python, Jetson Nano/Rpi 5, YOLOv8n, MoveNet, **MQTT**, Image Restoration.
     * **주요 기여:** **부팀장 역할** 수행 및 **안개 제거(Dehazing)** 모듈 개발.
     * [자세히 보기]({{Project 3 Repository Link}})
@@ -83,9 +83,9 @@
 ## 💻 主要プロジェクト
 
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム (Ctrl Sea Ctrl Vision)**
-    * **成果:** **Intel Edge AI Academy プロジェクトコンテスト最優秀賞受賞 (サブリーダー)**
+    * **成果:** **Intel Edge AI 実務プロジェクトコンテスト最優秀賞受賞 (副チームリーダー)**
     * **主要技術:** Python, Jetson Nano/Rpi 5, YOLOv8n, MoveNet, **MQTT**, Image Restoration.
-    * **主な貢献:** **サブリーダーの役割**遂行および**霧除去（Dehazing）**モジュールの開発。
+    * **主な貢献:** **副チームリーダーの役割**遂行および**霧画像補正（Dehazing）**モジュールの開発。
     * [詳細はこちら]({{Project 3 Repository Link}})
 
 * **🔆 Project 2: 光追跡スマート電力制御システム (SunTrack & PlugControl)**
