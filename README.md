@@ -146,7 +146,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
 </div>
 <br>
----
+
 <div align="center">
 <a href="#korean">⬆️ 韓国語バージョン으로 돌아가기 (Go back to Korean Version) ⬆️</a>
 </div>
