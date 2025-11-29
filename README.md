@@ -41,7 +41,6 @@
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision)
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
-    * 센서 + 릴레이 + LCD + STM32 Nucleo-F411RE + Arduino UNO + Raspberry Pi5 기반
     * **핵심 기술:** NUCLEO-F411RE (STM32), **Arduino UNO**, C/C++, MariaDB, **Bluetooth (HC-06)**.
     * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현.** 2초마다 서버에 정보 요청 후 LCD에 상태 출력. Bluetooth 명령을 통해 **릴레이(스마트 콘센트)** 개폐 조작 및 DB 상태 업데이트 로직 구현.
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol)
@@ -109,7 +108,7 @@
 ## 💻 主要プロジェクト
 
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム (Ctrl Sea Ctrl Vision)**
-    * **成果:** **Intel Edge AI 実務プロジェクトコンテスト最優秀賞受賞 (副チームリーダー)**
+    * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞 (副チームリーダー)**
     * **主要技術:** Python, Jetson Nano/Rpi 5, YOLOv8n, MoveNet, **MQTT**, Image Restoration.
     * **主な貢献:** **副チームリーダーの役割**遂行および**霧画像補正（Dehazing）**モジュールの開発。
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision?tab=readme-ov-file#japanese)
