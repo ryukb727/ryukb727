@@ -43,6 +43,11 @@
     * **주요 기여:** **FSM(상태 머신)** 기반 3단계 관리자 모드 로직 구현 및 TACT 스위치 **디바운싱** 처리
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe)
 
+* **🔬 Practice : Intel Geti를 활용한 AI Classification & Detection 실습** 
+    * **분석 성과:** Classification 성능 정량 분석 및 Detection 일반화 성능에 미치는 데이터/Bounding Box 설계 영향, Accuracy 지표와 실 성능 간 괴리를 통한 데이터 중심 접근(Data-Centric AI)의 중요함
+    * **핵심 기술:** Intel Geti Platform, Classification (EfficientNet-B0/V2-S), Object Detection (MobileNetV2-AT55)
+    * [Practice Repository Link](https://github.com/ryukb727/Practice_Geti_Fancam_Detect/tree/main)
+
 ---
 
 <div align="left">
@@ -109,6 +114,11 @@
     * **主要技術:** STM32F4 (HAL), C, ADC/PWM, **FSM**
     * **主な貢献:** <strong>FSM（ステートマシン)</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe?tab=readme-ov-file#japanese)
+ 
+* **🔬 Practice : Intel Getiを活用したAI分類・検出実習** 
+    * **分析成果:** 分類（Classification）性能の定量分析、および検出（Detection）の汎化性能に与えるデータ/Bounding Box設計の影響を分析。Accuracy指標と実性能間の乖離から、**データ中心アプローチ（Data-Centric AI）**の重要性を導出。
+    * **核心技術:** Intel Geti Platform, Classification (EfficientNet-B0/V2-S), Object Detection (MobileNetV2-AT55)
+    * [Practice Repository Link](https://github.com/ryukb727/Practice_Geti_Fancam_Detect/tree/main?tab=readme-ov-file#japanese)
 
 ---
 <div align="left">
