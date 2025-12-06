@@ -21,6 +21,7 @@
 💡 외국어로 세상과 소통하던 경험을 바탕으로, 현재는 C/C++로 하드웨어의 가장 아래 계층과 대화하는 임베디드 개발자로 성장 중입니다. 일상의 기기를 움직이는 BSP와 시스템 안정성에 매력을 느껴, 부트부터 드라이버까지 흐름을 이해하는 학습을 이어가고 있습니다.
 탄탄한 기초를 바탕으로 믿을 수 있는 결과물을 구현해 시스템의 안정성을 높이는 개발자가 되겠습니다.
 <br>
+
 ---
 
 ## 💻 주요 프로젝트
@@ -54,7 +55,6 @@
     <img src="https://img.shields.io/badge/STM32F4-033480?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/YOLOv8-144F69?style=for-the-badge&logo=yolo&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
@@ -87,6 +87,7 @@
 <br>
 💡 外国語を通じて世界とコミュニケーションを取ってきた経験を基に、現在はC/C++でハードウェアの最下層と対話する組み込み開発者として成長中です。日常の機器を動かすBSPとシステムの安定性に魅力を感じ、ブートからドライバーまでの流れを理解するための学習を続けています。強固な基礎を土台に、信頼できる成果物を実装し、システムの安定性を高める開発者を目指しています。
 <br>
+
 ---
 
 ## 💻 主要プロジェクト
@@ -119,7 +120,6 @@
     <img src="https://img.shields.io/badge/STM32F4-033480?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/YOLOv8-144F69?style=for-the-badge&logo=yolo&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
@@ -139,10 +139,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryukb727&show_icons=true&bg_color=ffffff00&title_color=000000&text_color=000000&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukb727&layout=compact&bg_color=ffffff00&title_color=000000&text_color=000000&border_radius=10" />
-</div>
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryukb727&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryukb727&layout=compact)
+
+</p>
 
 <br>
 
