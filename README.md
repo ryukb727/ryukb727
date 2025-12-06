@@ -30,7 +30,7 @@
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
     * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
     * **핵심 기술:** Python, OpenVINO, OpenCV, Jetson Nano/Rpi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
-    * **주요 기여:** **부팀장 역할** 수행 및 **안개 제거(Dehazing)** 모듈 개발
+    * **주요 기여:** **부팀장** 역할 수행 및 **안개 제거(Dehazing)** 모듈 개발
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision)
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
@@ -97,7 +97,7 @@
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム (Ctrl Sea Ctrl Vision)**
     * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞**
     * **主要技術:** Python, OpenVINO, OpenCV, Jetson Nano/Rpi 5, Image Restoration (DCP/CLAHE), YOLOv8n, MoveNet, MQTT
-    * **主な貢献:** **副チームリーダーの役割**遂行および<strong>霧画像補正（Dehazing</strong>モジュールの開発
+    * **主な貢献:** **副チームリーダー**の役割遂行および<strong>霧画像補正（Dehazing)</strong>モジュールの開発
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision?tab=readme-ov-file#japanese)
 
 * **🔆 Project 2: 光追跡スマート電力制御システム (SunTrack & PlugControl)**
