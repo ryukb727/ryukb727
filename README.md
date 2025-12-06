@@ -12,7 +12,9 @@
 ### 🇰🇷 Korean Version
 
 ## **👋 안녕하세요, 류균봉 입니다!**
-<br>
+
+---
+
 🎓 <strong>Intel 엣지 AI SW Academy 8기 수강 중</strong>
 <br>
 ✈️ <strong>문부과학성 국비 장학생</strong> (2015.09~2016.09, 나고야대학 일본어 일본문화 연수 수료)
@@ -20,7 +22,6 @@
 <br>
 💡 외국어로 세상과 소통하던 경험을 바탕으로, 현재는 C/C++로 하드웨어의 가장 아래 계층과 대화하는 임베디드 개발자로 성장 중입니다. 일상의 기기를 움직이는 BSP와 시스템 안정성에 매력을 느껴, 부트부터 드라이버까지 흐름을 이해하는 학습을 이어가고 있습니다.
 탄탄한 기초를 바탕으로 믿을 수 있는 결과물을 구현해 시스템의 안정성을 높이는 개발자가 되겠습니다.
-<br>
 
 ---
 
@@ -33,7 +34,7 @@
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision)
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
-    * **핵심 기술:** NUCLEO-F411RE (STM32), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth (HC-06)
+    * **핵심 기술:** STM32F4 (HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth (HC-06)
     * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현**, 2초마다 서버에 정보 요청 후 LCD에 상태 출력, **릴레이(스마트 콘센트) 개폐 조작** 및 DB 상태 업데이트 로직 구현
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol)
 
@@ -79,23 +80,24 @@
 ### 🇯🇵 Japanese Version
 
 ## **👋 初めまして、 リュ・ギュンボンと申します！**
-<br>
+
+---
+
 🎓 <strong>Intel Edge AI Academy 8期 受講中</strong>
 <br>
 ✈️ <strong>文部科学省国費留学生</strong> (2015.09~2016.09、名古屋大学 日本語日本文化研修 修了)
 <br>
 <br>
 💡 外国語を通じて世界とコミュニケーションを取ってきた経験を基に、現在はC/C++でハードウェアの最下層と対話する組み込み開発者として成長中です。日常の機器を動かすBSPとシステムの安定性に魅力を感じ、ブートからドライバーまでの流れを理解するための学習を続けています。強固な基礎を土台に、信頼できる成果物を実装し、システムの安定性を高める開発者を目指しています。
-<br>
 
 ---
 
 ## 💻 主要プロジェクト
 
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム (Ctrl Sea Ctrl Vision)**
-    * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞 (副チームリーダー)**
+    * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞**
     * **主要技術:** Python, OpenVINO, OpenCV, Jetson Nano/Rpi 5, Image Restoration (DCP/CLAHE), YOLOv8n, MoveNet, MQTT
-    * **主な貢献:** **副チームリーダーの役割**遂行および**霧画像補正（Dehazing）**モジュールの開発
+    * **主な貢献:** **副チームリーダーの役割**遂行および<strong>霧画像補正（Dehazing</strong>モジュールの開発
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision?tab=readme-ov-file#japanese)
 
 * **🔆 Project 2: 光追跡スマート電力制御システム (SunTrack & PlugControl)**
@@ -105,7 +107,7 @@
 
 * **🔐 Project 1: STM32ベースのアナログダイヤル金庫システム**
     * **主要技術:** STM32F4 (HAL), C, ADC/PWM, **FSM**
-    * **主な貢献:** **FSM（ステートマシン）**に基づく3段階管理者モードロジックの実装とTACTスイッチの**デバウンス**処理
+    * **主な貢献:** <strong>FSM（ステートマシン</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe?tab=readme-ov-file#japanese)
 
 ---
