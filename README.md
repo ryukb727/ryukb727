@@ -35,7 +35,7 @@
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
     * **핵심 기술:** STM32F4 (HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth (HC-06)
-    * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현**, 2초마다 서버에 정보 요청 후 LCD에 상태 출력, **릴레이(스마트 콘센트) 개폐 조작** 및 DB 상태 업데이트 로직 구현
+    * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현**, 2초마다 서버에 정보 요청 후 LCD에 상태 출력, **릴레이(스마트 콘센트)** 개폐 조작 및 DB 상태 업데이트 로직 구현
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol)
 
 * **🔐 Project 1: STM32 기반 아날로그 다이얼 금고 시스템** 
@@ -107,7 +107,7 @@
 
 * **🔐 Project 1: STM32ベースのアナログダイヤル金庫システム**
     * **主要技術:** STM32F4 (HAL), C, ADC/PWM, **FSM**
-    * **主な貢献:** <strong>FSM（ステートマシン</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
+    * **主な貢献:** <strong>FSM（ステートマシン)</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe?tab=readme-ov-file#japanese)
 
 ---
