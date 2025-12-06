@@ -12,7 +12,7 @@
 ### 🇰🇷 Korean Version
 
 ## **👋 안녕하세요, 류균봉 입니다!**
-
+<br>
 🎓 **Intel 엣지 AI SW Academy 8기 수강 중**
 <br>
 ✈️ **문부과학성 국비 장학생** (2015.09~2016.09, 나고야대학 일본어 일본문화 연수 수료)
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/YOLOv8-144F69?style=for-the-badge&logo=yolo&logoColor=white"/>
-    <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenVINO-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite"/>
+    <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
@@ -77,7 +77,7 @@
 ### 🇯🇵 Japanese Version
 
 ## **👋 初めまして、 リュ・ギュンボンと申します！**
-
+<br>
 🎓 **Intel Edge AI Academy 8期 受講中**
 <br>
 ✈️ **文部科学省国費留学生** (2015.09~2016.09、名古屋大学 日本語日本文化研修 修了)
@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/YOLOv8-144F69?style=for-the-badge&logo=yolo&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenVINO-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite"/>
+    <img src="https://img.shields.io/badge/OpenVINO-0078D4?style=for-the-badge&logo=intel&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
     <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
@@ -136,10 +136,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<!-- GitHub Stats - 배경 투명, 아이콘 표시 -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dryukb727%26show_icons%3Dtrue%26bg_color%3Dffffff00%26title_color%3D000000%26text_color%3D000000%26border_radius%3D10" alt="ryukb727's GitHub Stats"/>
-<!-- Top Languages - 레이아웃 컴팩트, 배경 투명 -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dryukb727%26layout%3Dcompact%26bg_color%3Dffffff00%26title_color%3D000000%26text_color%3D000000%26border_radius%3D10" alt="ryukb727's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryukb727&show_icons=true&bg_color=ffffff00&title_color=000000&text_color=000000&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukb727&layout=compact&bg_color=ffffff00&title_color=000000&text_color=000000&border_radius=10" />
 </div>
 
 <br>
