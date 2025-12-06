@@ -11,7 +11,7 @@
 
 ### 🇰🇷 Korean Version
 
-## **👋 안녕하세요, 류균봉 입니다!**
+## **👋 안녕하세요, 류균봉입니다!**
 
 ---
 
@@ -29,23 +29,23 @@
 
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
     * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
-    * **핵심 기술:** Python, OpenVINO, OpenCV, Jetson Nano/Rpi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
+    * **핵심 기술:** Python, OpenVINO, OpenCV, Jetson Nano, Raspberry Pi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
     * **주요 기여:** **부팀장** 역할 수행 및 **안개 제거(Dehazing)** 모듈 개발
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision)
 
 * **🔆 Project 2: 빛 추적 스마트 전력 제어 시스템 (SunTrack & PlugControl)**
-    * **핵심 기술:** STM32F4 (HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth (HC-06)
+    * **핵심 기술:** STM32F4(HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth(HC-06)
     * **주요 기여:** **사용자 인터페이스 및 제어 클라이언트 구현**, 2초마다 서버에 정보 요청 후 LCD에 상태 출력, **릴레이(스마트 콘센트)** 개폐 조작 및 DB 상태 업데이트 로직 구현
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol)
 
 * **🔐 Project 1: STM32 기반 아날로그 다이얼 금고 시스템** 
-    * **핵심 기술:** STM32F4 (HAL), C, ADC/PWM, **FSM**
+    * **핵심 기술:** STM32F4(HAL), C, ADC/PWM, **FSM**
     * **주요 기여:** **FSM(상태 머신)** 기반 3단계 관리자 모드 로직 구현 및 TACT 스위치 **디바운싱** 처리
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe)
 
 * **🔬 Practice: Intel Geti를 활용한 AI Classification & Detection 실습** 
-    * **분석 성과:** Classification 성능 정량 분석 및 Detection 일반화 성능에 미치는 데이터/Bounding Box 설계 영향, score 지표와 실 성능 간 괴리를 통한 데이터 중심 접근(Data-Centric AI)의 중요성
-    * **핵심 기술:** Intel Geti Platform, Classification (EfficientNet-B0/V2-S), Object Detection (MobileNetV2-AT55)
+    * **분석 성과:** Classification 성능 정량 분석 및 Detection 일반화 성능에 미치는 데이터/Bounding Box 설계 영향과, score 지표와 실 성능 간 괴리를 통한 데이터 중심 접근(Data-Centric AI)의 중요성
+    * **핵심 기술:** Intel Geti Platform, Classification(EfficientNet-B0/V2-S), Object Detection(MobileNetV2-AT55)
     * [Practice Repository Link](https://github.com/ryukb727/Practice_Geti_Fancam_Detect/tree/main)
 
 ---
@@ -99,25 +99,25 @@
 
 ## 💻 主要プロジェクト
 
-* **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム (Ctrl Sea Ctrl Vision)**
+* **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム(Ctrl Sea Ctrl Vision)**
     * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞**
-    * **主要技術:** Python, OpenVINO, OpenCV, Jetson Nano/Rpi 5, Image Restoration (DCP/CLAHE), YOLOv8n, MoveNet, MQTT
-    * **主な貢献:** **副チームリーダー**の役割遂行および<strong>霧画像補正（Dehazing)</strong>モジュールの開発
+    * **主要技術:** Python, OpenVINO, OpenCV, Jetson Nano, Raspberry Pi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
+    * **主な貢献:** **副チームリーダー**の役割遂行および<strong>霧画像補正(Dehazing)</strong>モジュールの開発
     * [Project 3 Repository Link](https://github.com/ryukb727/3rd_proj_Control_Sea_Control_Vision?tab=readme-ov-file#japanese)
 
 * **🔆 Project 2: 光追跡スマート電力制御システム (SunTrack & PlugControl)**
-    * **主要技術:** NUCLEO-F411RE (STM32), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth (HC-06)
-    * **主な貢献:** **ユーザーインターフェースおよび制御クライアントの実装。** 2秒ごとにサーバーに情報を要求し、LCDに状態を出力。**リレー（スマートプラグ）** 開閉操作およびDBの状態更新ロジックを実装。
+    * **主要技術:** STM32F4(HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth(HC-06)
+    * **主な貢献:** **ユーザーインターフェースおよび制御クライアントの実装。** 2秒ごとにサーバーに情報を要求し、LCDに状態を出力。<strong>リレー(スマートプラグ)</strong>開閉操作およびDBの状態更新ロジックを実装。
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol?tab=readme-ov-file#japanese)
 
 * **🔐 Project 1: STM32ベースのアナログダイヤル金庫システム**
-    * **主要技術:** STM32F4 (HAL), C, ADC/PWM, **FSM**
-    * **主な貢献:** <strong>FSM（ステートマシン)</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
+    * **主要技術:** STM32F4(HAL), C, ADC/PWM, **FSM**
+    * **主な貢献:** <strong>FSM(ステートマシン)</strong>に基づく管理者向け3段階モードロジックの実装とTACTスイッチの**デバウンス**処理
     * [Project 1 Repository Link](https://github.com/ryukb727/1st_miniproj_mini_safe?tab=readme-ov-file#japanese)
  
 * **🔬 Practice: Intel Getiを活用したAI分類・検出実習** 
-    * **分析成果:** 分類（Classification）性能の定量分析、および検出（Detection）の汎化性能に与えるデータ/Bounding Box設計の影響を分析。score指標と実性能との乖離を通じて、**データ中心アプローチ（Data-Centric AI）**の重要性を明確化。
-    * **核心技術:** Intel Geti Platform, Classification (EfficientNet-B0/V2-S), Object Detection (MobileNetV2-AT55)
+    * **分析成果:** 分類(Classification)性能の定量分析、および検出(Detection)の汎化性能に与えるデータ/Bounding Box設計の影響を分析。スコア指標と実性能との乖離を通じて、<strong>データ中心アプローチ(Data-Centric AI)</strong>の重要性を明確化。
+    * **核心技術:** Intel Geti Platform, Classification(EfficientNet-B0/V2-S), Object Detection(MobileNetV2-AT55)
     * [Practice Repository Link](https://github.com/ryukb727/Practice_Geti_Fancam_Detect/tree/main?tab=readme-ov-file#japanese)
 
 ---
