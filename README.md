@@ -27,6 +27,11 @@
 
 ## 💻 주요 프로젝트
 
+* **⏱️ Project 5: Linux Kernel Device Driver 기반 시간 관리 임베디드 시스템 (SI-TA-PO)**
+    * **핵심 기술:** C, Linux Kernel v6.1, GPIO Interrupt, Workqueue, FSM, I2C, Raspberry Pi 4, SSD1306 OLED, DS1302 RTC
+    * **주요 기여:** **커널 디바이스 드라이버 직접 설계**, Interrupt/Workqueue 분리(Top-Bottom Half)를 통한 **입력 반응성 최적화**, Page 단위 전송 알고리즘 적용 및 **계층형 FSM** 상태 관리 구현
+    * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO) 
+
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
     * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
     * **핵심 기술:** Python, OpenVINO, OpenCV, Jetson Nano, Raspberry Pi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
@@ -99,6 +104,11 @@
 
 ## 💻 主要プロジェクト
 
+* **⏱️ Project 5: Linuxカーネルデバイスドライバベース時間管理組み込みシステム (SI-TA-PO)**
+    * **主要技術:** C, Linux Kernel v6.1, GPIO Interrupt, Workqueue, FSM, I2C, Raspberry Pi 4, SSD1306 OLED, DS1302 RTC
+    * **主な貢献:** **カーネルデバイスドライバを独自に設計・実装**。Interrupt/Workqueueの分離設計(Top-Bottom Half)による**入力レスポンスの最適化**、ページ単位の転送アルゴリズム適用、および**階層型FSM**による状態管理ロジックを構築
+    * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO?tab=readme-ov-file#japanese)
+
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム(Ctrl Sea Ctrl Vision)**
     * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞**
     * **主要技術:** Python, OpenVINO, OpenCV, Jetson Nano, Raspberry Pi 5, Image Restoration(DCP/CLAHE), YOLOv8n, MoveNet, MQTT
@@ -107,7 +117,7 @@
 
 * **🔆 Project 2: 光追跡スマート電力制御システム (SunTrack & PlugControl)**
     * **主要技術:** STM32F4(HAL), Arduino UNO, C, MariaDB, Wi-Fi(ESP-01), Bluetooth(HC-06)
-    * **主な貢献:** **ユーザーインターフェースおよび制御クライアントの実装。** 2秒ごとにサーバーに情報を要求し、LCDに状態を出力。<strong>リレー(スマートプラグ)</strong>開閉操作およびDBの状態更新ロジックを実装。
+    * **主な貢献:** **UIおよび制御クライアントの実装。** 2秒ごとにサーバーに情報を要求し、LCDに状態を出力。<strong>リレー(スマートプラグ)</strong>開閉操作およびDBの状態更新ロジックを実装。
     * [Project 2 Repository Link](https://github.com/ryukb727/2nd_miniproj_suntrack_plugcontrol?tab=readme-ov-file#japanese)
 
 * **🔐 Project 1: STM32ベースのアナログダイヤル金庫システム**
@@ -117,7 +127,7 @@
  
 * **🔬 Practice: Intel Getiを活用したAI分類・検出実習** 
     * **分析成果:** 分類(Classification)性能の定量分析、および検出(Detection)の汎化性能に与えるデータ/Bounding Box設計の影響を分析。スコア指標と実性能との乖離を通じて、<strong>データ中心アプローチ(Data-Centric AI)</strong>の重要性を明確化。
-    * **核心技術:** Intel Geti Platform, Classification(EfficientNet-B0/V2-S), Object Detection(MobileNetV2-AT55)
+    * **主要技術:** Intel Geti Platform, Classification(EfficientNet-B0/V2-S), Object Detection(MobileNetV2-AT55)
     * [Practice Repository Link](https://github.com/ryukb727/Practice_Geti_Fancam_Detect/tree/main?tab=readme-ov-file#japanese)
 
 ---
