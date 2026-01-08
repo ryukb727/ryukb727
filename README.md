@@ -30,7 +30,12 @@
 * **⏱️ Project 5: Linux Kernel Device Driver 기반 시간 관리 임베디드 시스템 (SI-TA-PO)**
     * **핵심 기술:** C, Linux Kernel v6.1, GPIO Interrupt, Workqueue, FSM, I2C, Raspberry Pi 4, SSD1306 OLED, DS1302 RTC
     * **주요 기여:** **커널 디바이스 드라이버 직접 설계**, Interrupt/Workqueue 분리(Top-Bottom Half)를 통한 **입력 반응성 최적화**, Page 단위 전송 알고리즘 적용 및 **계층형 FSM** 상태 관리 구현
-    * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO) 
+    * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO)
+
+* **🔋 Project 4: ESS 시설 이상 감지 및 관제 시스템 (E.S.S.E.N.T.I.A.L)**
+    * **핵심 기술:** Python, C++, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
+    * **주요 기여:** Qt 기반 중앙 관제 UI 개발, MariaDB 스키마 설계, MQTT 데이터 수집 및 DB 연동, GUI 기반 제어 요청 구현
+    * [Project 5 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L) 
 
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
     * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
@@ -108,6 +113,11 @@
     * **主要技術:** C, Linux Kernel v6.1, GPIO Interrupt, Workqueue, FSM, I2C, Raspberry Pi 4, SSD1306 OLED, DS1302 RTC
     * **主な貢献:** **カーネルデバイスドライバを独自に設計・実装**。Interrupt/Workqueueの分離設計(Top-Bottom Half)による**入力レスポンスの最適化**、ページ単位の転送アルゴリズム適用、および**階層型FSM**による状態管理ロジックを構築
     * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO?tab=readme-ov-file#japanese)
+ 
+* **🔋 Project 4: ESS施設異常検知・監視システム (E.S.S.E.N.T.I.A.L)**
+    * **主要技術:** Python, C++, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
+    * **主な貢献:** Qtベースの中央監視UI開発、MariaDBスキーマ設計、MQTTデータ収集とDB連携、GUIベース制御リクエスト実装
+    * [Project 4 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L/tree/main?tab=readme-ov-file#japanese)
 
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム(Ctrl Sea Ctrl Vision)**
     * **成果:** **Intel Edge AI 実務プロジェクトコンペティション最優秀賞受賞**
