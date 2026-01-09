@@ -33,9 +33,9 @@
     * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO)
 
 * **🔋 Project 4: ESS 시설 이상 감지 및 관제 시스템 (E.S.S.E.N.T.I.A.L)**
-    * **핵심 기술:** Python, C++, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
+    * **핵심 기술:** C++, Python, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
     * **주요 기여:** Qt 기반 중앙 관제 UI 개발, MariaDB 스키마 설계, MQTT 데이터 수집 및 DB 연동, GUI 기반 제어 요청 구현
-    * [Project 5 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L) 
+    * [Project 4 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L) 
 
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
     * **성과:** **인텔 엣지 AI 실무 프로젝트 경진대회 최우수상 수상**
@@ -115,7 +115,7 @@
     * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO?tab=readme-ov-file#japanese)
  
 * **🔋 Project 4: ESS施設異常検知・監視システム (E.S.S.E.N.T.I.A.L)**
-    * **主要技術:** Python, C++, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
+    * **主要技術:** C++, Python, Qt6, MQTT, MariaDB, STM32, Raspberry Pi, MLX90640, OpenCV, RFID
     * **主な貢献:** Qtベースの中央監視UI開発、MariaDBスキーマ設計、MQTTデータ収集とDB連携、GUIベース制御リクエスト実装
     * [Project 4 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L/tree/main?tab=readme-ov-file#japanese)
 
