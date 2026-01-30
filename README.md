@@ -15,7 +15,7 @@
 
 ---
 
-🎓 <strong>Intel 엣지 AI SW Academy 8기 수강 중</strong>
+🎓 <strong>Intel 엣지 AI SW Academy 8기 수료</strong>
 <br>
 ✈️ <strong>문부과학성 국비 장학생</strong> (2015.09~2016.09, 나고야대학 일본어·일본 문화 연수 수료)
 <br>
@@ -33,8 +33,9 @@
     * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO)
 
 * **🔋 Project 4: ESS 시설 이상 감지 및 관제 시스템 (E.S.S.E.N.T.I.A.L)**
+    * **성과:** **엣지 AIoT 시스템 개발 프로젝트 경진대회 우수상 수상**
     * **핵심 기술:** C/C++, Python, Qt6, MQTT, MariaDB, ROS2, STM32, Raspberry Pi, OpenCV, RFID
-    * **주요 기여:** Qt 기반 중앙 관제 UI 개발, MariaDB 스키마 설계, MQTT 데이터 수집 및 DB 연동, GUI 기반 제어 요청 구현
+    * **주요 기여:** Qt 기반 **중앙 관제 UI** 개발, MariaDB 스키마 설계, **MQTT 데이터 수집 및 DB 연동**, **GUI 기반 제어 요청** 구현
     * [Project 4 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L) 
 
 * **🚢 Project 3: AI 기반 선박 제어실 보조 On-Device 시스템 (Ctrl Sea Ctrl Vision)**
@@ -98,7 +99,7 @@
 
 ---
 
-🎓 <strong>Intel Edge AI Academy 8期 受講中</strong>
+🎓 <strong>Intel Edge AI Academy 第8期 修了</strong>
 <br>
 ✈️ <strong>文部科学省国費留学生</strong> (2015.09~2016.09、名古屋大学 日本語日本文化研修 修了)
 <br>
@@ -115,8 +116,9 @@
     * [Project 5 Repository Link](https://github.com/ryukb727/5th_proj_SI-TA-PO?tab=readme-ov-file#japanese)
  
 * **🔋 Project 4: ESS施設異常検知・監視システム (E.S.S.E.N.T.I.A.L)**
+    * **成果:** **エッジAIoTシステム開発プロジェクトコンペティション優秀賞受賞**
     * **主要技術:** C/C++, Python, Qt6, MQTT, MariaDB, ROS2, STM32, Raspberry Pi, OpenCV, RFID
-    * **主な貢献:** Qtベースの中央監視UI開発、MariaDBスキーマ設計、MQTTデータ収集とDB連携、GUIベース制御リクエスト実装
+    * **主な貢献:** Qtベースの**中央監視UI**開発、MariaDBスキーマ設計、**MQTTデータ収集とDB連携**、**GUIベース制御リクエスト**実装
     * [Project 4 Repository Link](https://github.com/ryukb727/4th_proj_E.S.S.E.N.T.I.A.L/tree/main?tab=readme-ov-file#japanese)
 
 * **🚢 Project 3: AIベース船舶操舵室補助 On-Deviceシステム(Ctrl Sea Ctrl Vision)**
