@@ -99,7 +99,7 @@
 
 ---
 
-🎓 <strong>Intel Edge AI Academy 第8期 修了</strong>
+🎓 <strong>Intel Edge AI SW Academy 第8期 修了</strong>
 <br>
 ✈️ <strong>文部科学省国費留学生</strong> (2015.09~2016.09、名古屋大学 日本語日本文化研修 修了)
 <br>
